@@ -22,7 +22,7 @@ There are some existing solutions that analyses the image and applies CNN but th
 It is also intel oneAPI optimised hence it provides faster,optimised algorithms and computations.
 
 # How i built it ?
-![intel oneAPI logo](https://www.intel.com/content/dam/develop/public/us/en/images/thumbnails/tool-thumbnail-beta-oneapi-logo.jpg)
+
 =>
 
 # What I learned ?
