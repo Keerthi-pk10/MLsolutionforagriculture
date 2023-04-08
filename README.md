@@ -42,7 +42,7 @@ EDA AND LABEL IMAGES</li>
 <li>ANALYSE THE OUTPUT</li>
 
 # What I learned ?
-Since I am a beginner in ML, I learnt a lot terms,explored a lot of domains and gained a vast array of knowledge,some of it include
+Since I am a beginner in ML, I learnt about a lot of terms,explored a lot of domains and gained a vast array of knowledge,some of it include ...
 <li>INTEL ONEAPI AND ITS TOOLKITS : Intel OneAPI is a software development kit that enables developers to create high-performance applications that can run on a variety of hardware platforms, including CPUs, GPUs, and FPGAs. OneAPI offers a set of tools, libraries, and frameworks that developers can use to optimize their code for specific hardware architectures, which can lead to faster and more efficient execution times.</li>
 <li>AWARENESS OF ECONOMY : Searching for a problem statement made me aware of the situation,the need for the model and modification required however it also provided me knowledge how these prices vastly affect the economy as a whole.</li>
 <li>EDA : From finding the required dataset to exploring it,I gained a lot of knowledge on Data acquisition and preprocessing.</li>
