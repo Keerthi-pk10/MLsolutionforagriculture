@@ -34,18 +34,18 @@ Intel OneAPI provides a comprehensive set of tools, libraries, and frameworks th
 
 # How I built it ?
 
-<li>=> IMPORT LIBRARIES
-=> EDA AND LABEL IMAGES
-=> SPLIT THE DATA AND PREPROCESS IT
-=> BUILD A MODEL
-=> TRAIN THE MODEL
-=> ANALYSE THE OUTPUT</li>
+<li> IMPORT LIBRARIES</li>
+EDA AND LABEL IMAGES</li>
+<li>SPLIT THE DATA AND PREPROCESS IT</li>
+<li>BUILD A MODEL</li>
+<li>TRAIN THE MODEL</li>
+<li>ANALYSE THE OUTPUT</li>
 
 # What I learned ?
 Since I am a beginner in ML, I learnt a lot terms,explored a lot of domains and gained a vast array of knowledge,some of it include
-=>INTEL ONEAPI AND ITS TOOLKITS : Intel OneAPI is a software development kit that enables developers to create high-performance applications that can run on a variety of hardware platforms, including CPUs, GPUs, and FPGAs. OneAPI offers a set of tools, libraries, and frameworks that developers can use to optimize their code for specific hardware architectures, which can lead to faster and more efficient execution times.
-=> AWARENESS OF ECONOMY : Searching for a problem statement made me aware of the situation,the need for the model and modification required however it also provided me knowledge how these prices vastly affect the economy as a whole.
-=> EDA : From finding the required dataset to exploring it,I gained a lot of knowledge on Data acquisition and preprocessing.
-=> PLANT PATHOLOGY : I likely gained knowledge on different plant diseases and how to remedy it.
-=> MACHINE LEARNING : I likely gained knowledge on CNN and its overall working.
-=> AGRICULTURAL TRENDS: I likely gained insight into current trends in agriculture and the challenges facing farmers, such as the need for sustainable and efficient crop production.
+<li>INTEL ONEAPI AND ITS TOOLKITS : Intel OneAPI is a software development kit that enables developers to create high-performance applications that can run on a variety of hardware platforms, including CPUs, GPUs, and FPGAs. OneAPI offers a set of tools, libraries, and frameworks that developers can use to optimize their code for specific hardware architectures, which can lead to faster and more efficient execution times.</li>
+<li>AWARENESS OF ECONOMY : Searching for a problem statement made me aware of the situation,the need for the model and modification required however it also provided me knowledge how these prices vastly affect the economy as a whole.</li>
+<li>EDA : From finding the required dataset to exploring it,I gained a lot of knowledge on Data acquisition and preprocessing.</li>
+<li>PLANT PATHOLOGY : I likely gained knowledge on different plant diseases and how to remedy it.</li>
+<li>MACHINE LEARNING : I likely gained knowledge on CNN and its overall working.</li>
+<li>AGRICULTURAL TRENDS: I likely gained insight into current trends in agriculture and the challenges facing farmers, such as the need for sustainable and efficient crop production.</li>
