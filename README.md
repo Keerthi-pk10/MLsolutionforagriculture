@@ -51,7 +51,11 @@ There are some existing solutions that analyses the image and apply CNN to predi
 <img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/for10epochs.png?raw=true"/>
 This is a graph for 10 epochs
 <li>ANALYSE THE OUTPUT</li>
+<li>VISUALISATION</li>
 <img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/Tomato_leaf.png?raw=true"/>
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/markvis.png?raw=true"/>
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/markvis2.png?raw=true"/>
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/fertirep.png?raw=true"/>
 
 # Comparision between InteloneAPI and others💻
 <img src="https://mp.s81c.com/pwb-production/64fba2daf3aa2129d02e8ff477c4d90f/small-ai-analytics-toolkit-rgb-3000-ebb5101e-e941-4cef-b24a-55296a790d8a_3e15dde3-e3b2-4553-9d63-cfc61bfbb5c7.png"/>
