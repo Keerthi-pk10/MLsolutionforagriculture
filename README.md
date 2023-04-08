@@ -34,12 +34,12 @@ Intel OneAPI provides a comprehensive set of tools, libraries, and frameworks th
 
 # How I built it ?
 
-=> IMPORT LIBRARIES
+<li>=> IMPORT LIBRARIES
 => EDA AND LABEL IMAGES
 => SPLIT THE DATA AND PREPROCESS IT
 => BUILD A MODEL
 => TRAIN THE MODEL
-=> ANALYSE THE OUTPUT
+=> ANALYSE THE OUTPUT</li>
 
 # What I learned ?
 Since I am a beginner in ML, I learnt a lot terms,explored a lot of domains and gained a vast array of knowledge,some of it include
