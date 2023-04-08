@@ -8,12 +8,12 @@ The dataset used for images is the PlantVillage dataset from UPenn
 This machine learning model is designed to help farmers make informed decisions about crop selection, disease prevention, fertilizer application, and market trends. It is based on a deep learning architecture that leverages convolutional neural networks (CNNs) to analyze images of leaves and other supervised algorithms to analyze other features.
 
 # Inspiration
-Karnataka: Tomato prices crash, ryots allow crops to wither in Kolar
-TOI ,Ranganath Krishnaswamy / TNN / Jul 22, 2022, 09:16 IS ..
-Tomato, onion growers in tears following price crash in Karnataka
-Hindustan Times , PTI | | Posted by Pathi Venkata Thadhagath
-Tomato prices surge as rains damage crop
-By Sutanuka Ghosal, ET BureauLast Updated: Aug 12, 2022, 12:53 AM IST
+Karnataka: Tomato prices crash, ryots allow crops to wither in Kolar<br>
+TOI ,Ranganath Krishnaswamy / TNN / Jul 22, 2022, 09:16 IS ..<br>
+Tomato, onion growers in tears following price crash in Karnataka<br>
+Hindustan Times , PTI | | Posted by Pathi Venkata Thadhagath<br>
+Tomato prices surge as rains damage crop<br>
+By Sutanuka Ghosal, ET BureauLast Updated: Aug 12, 2022, 12:53 AM IST<br>
 
 Tomato is an integral part of every household throughout India as it is the basic ingredient of almost every dish in the Indian cuisine.
 In recent years, the tomato industry in India has faced a significant challenge in the form of tomato leaf diseases, which have caused immense losses for farmers. According to a report by The Economic Times, farmers in Karnataka alone have reported losses of over Rs 500 crore due to diseases in tomato plants.
