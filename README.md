@@ -43,7 +43,7 @@ There are some existing solutions that analyses the image and apply CNN to predi
 <li> IMPORT LIBRARIES</li>
 <li>IMPORT DATASET</li>
 <li>EDA AND LABEL IMAGES</li>
-![labelimg](labelimg.png)
+![labelimg]([labelimg.png](https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/))
 <li>SPLIT THE DATA AND PREPROCESS IT</li>
 <li>BUILD A MODEL</li>
 <li>TRAIN THE MODEL</li>
