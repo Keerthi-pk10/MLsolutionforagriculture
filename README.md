@@ -10,6 +10,7 @@ https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction/code
 This machine learning model is designed to help tomato farmers make informed decisions about disease prevention, fertilizer application, and market trends. It is based on a deep learning architecture that leverages convolutional neural networks (CNNs) to analyze images of leaves and other supervised algorithms to analyze other features.
 
 # Inspiration 💪
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Fnews%2Feconomy%2Fagriculture%2Ftomato-prices-which-had-crashed-to-rs-1-2-per-kg-in-may-are-now-selling-at-rs-40-50-a-kg%2Farticleshow%2F76926118.cms&psig=AOvVaw3ftm9Bui2aZLf6bGXmbei_&ust=1681064388187000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCvm__ymv4CFQAAAAAdAAAAABAE"/>
 Karnataka: Tomato prices crash, ryots allow crops to wither in Kolar<br>
 TOI ,Ranganath Krishnaswamy / TNN / Jul 22, 2022, 09:16 IS ..<br>
 Tomato, onion growers in tears following price crash in Karnataka<br>
@@ -43,14 +44,17 @@ There are some existing solutions that analyses the image and apply CNN to predi
 <li> IMPORT LIBRARIES</li>
 <li>IMPORT DATASET</li>
 <li>EDA AND LABEL IMAGES</li>
-![labelimg]([labelimg.png](https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/))
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/labelimg.png?raw=true" alt=lbl/>
 <li>SPLIT THE DATA AND PREPROCESS IT</li>
 <li>BUILD A MODEL</li>
 <li>TRAIN THE MODEL</li>
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/for10epochs.png?raw=true"/>
+This is a graph for 10 epochs
 <li>ANALYSE THE OUTPUT</li>
+<img src="https://github.com/Keerthi-pk10/MLsolutionforagriculture/blob/main/Tomato_leaf.png?raw=true"/>
 
 # Comparision between InteloneAPI and others💻
-
+<img src="https://mp.s81c.com/pwb-production/64fba2daf3aa2129d02e8ff477c4d90f/small-ai-analytics-toolkit-rgb-3000-ebb5101e-e941-4cef-b24a-55296a790d8a_3e15dde3-e3b2-4553-9d63-cfc61bfbb5c7.png"/>
 Intel OneAPI provides a comprehensive set of tools, libraries, and frameworks that can help optimize code for specific hardware architectures, which can lead to significant improvements in execution times. This level of performance optimization can be particularly valuable for users working on computationally intensive tasks that require high levels of processing power.In context to this project,CNN's prediction happens in seconds unlike in other platforms.Almost all epochs are processed for the whole of training dataset within seconds whereas in other platforms it takes significantly longer time.This was also done without any RAM crashes during the processing.And to whoever uses it,it is clear that Intel OneAPI offers a powerful and versatile set of tools that can help developers and researchers achieve their goals with maximum efficiency and performance.
 <br>
 
