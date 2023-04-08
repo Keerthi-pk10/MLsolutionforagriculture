@@ -1,5 +1,5 @@
 # Problem statement
-A Machine learning approch to detect diseases in tomato leaves
+A Machine learning approch to detect diseases in tomato leaves.This is to develop an accurate and efficient system that can automatically identify the presence of diseases in tomato leaves from images. The system should be able to classify images into different categories based on the type of disease present and provide recommendations for appropriate treatment measures.
 
 # Dataset used
 The dataset used for images is the PlantVillage dataset from UPenn
